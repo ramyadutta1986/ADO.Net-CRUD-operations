@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <Emp_id>1001</Emp_id>
+    <Emp_name>Lasya</Emp_name>
+    <Emp_age>23</Emp_age>
+    <Emp_Salary>80000</Emp_Salary>
+  </Table>
+  <Table>
+    <Emp_id>1002</Emp_id>
+    <Emp_name>Prapthi</Emp_name>
+    <Emp_age>25</Emp_age>
+    <Emp_Salary>80000</Emp_Salary>
+  </Table>
+  <Table>
+    <Emp_id>1003</Emp_id>
+    <Emp_name>Om</Emp_name>
+    <Emp_age>25</Emp_age>
+    <Emp_Salary>100000</Emp_Salary>
+  </Table>
+  <Table>
+    <Emp_id>1004</Emp_id>
+    <Emp_name>Rohit</Emp_name>
+    <Emp_age>25</Emp_age>
+    <Emp_Salary>70000</Emp_Salary>
+  </Table>
+  <Table>
+    <Emp_id>1005</Emp_id>
+    <Emp_name>Sara</Emp_name>
+    <Emp_age>26</Emp_age>
+    <Emp_Salary>90000</Emp_Salary>
+  </Table>
+  <Table>
+    <Emp_id>1006</Emp_id>
+    <Emp_name>Drithi</Emp_name>
+    <Emp_age>24</Emp_age>
+    <Emp_Salary>80000</Emp_Salary>
+  </Table>
+  <Table>
+    <Emp_id>1007</Emp_id>
+    <Emp_name>SriRam</Emp_name>
+    <Emp_age>24</Emp_age>
+  </Table>
+</NewDataSet>

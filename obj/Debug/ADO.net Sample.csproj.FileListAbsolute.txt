@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ADO.net Sample\ADO.net Sample\obj\Debug\ADO.net_Sample.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ADO.net Sample\ADO.net Sample\obj\Debug\ADO.net_Sample.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ADO.net Sample\ADO.net Sample\obj\Debug\ADO.net Sample.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ADO.net Sample\ADO.net Sample\bin\Debug\ADO.net Sample.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ADO.net Sample\ADO.net Sample\bin\Debug\ADO.net Sample.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ADO.net Sample\ADO.net Sample\bin\Debug\ADO.net Sample.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ADO.net Sample\ADO.net Sample\obj\Debug\ADO.net Sample.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ADO.net Sample\ADO.net Sample\obj\Debug\ADO.net Sample.pdb
